@@ -1,0 +1,71 @@
+# main links
+# controls the menu options at top of pages
+main:
+  - title: "Home"
+    url: /index.html
+  - title: "Client Needs"
+    url: /needs/ #/overview/
+  - title: "Client Doco"
+    url: /doco/ #/events/
+  - title: "B2B EDI Reference"
+    url: /edi_ref/
+  - title: "Partners"
+    url: /partners/ #/emerging/
+  - title: "Recognition"
+    url: /404.html/ #/general/glossary/
+  - title: "Wins"
+    url: /wins/ #/devops/ review this more
+ # - title: "ITIL"
+ #   url: https://dxc.workplace.com/groups/EDGEConnect/
+ #url: /index.html #/tools/
+ # - title: "News"
+
+# controls sidenav Menu options
+sidenav:
+  - title: "What BES Sells" #creates a group with this as title
+    children: #subsequent entries are chidren to above group
+    - title: " At a Glance"
+      url: /glance/
+
+    - title: " Locations"
+      url: /pdf/BES_Locations.pdf
+
+    - title: " Solutions & Value Provided"
+      url: /values/
+
+    - title: " Sales Momentum"
+      url: https://dxc.seismic.com/Link/Content/DCCHBFX8BWTdW8HBJM4QR6p9Q4fP
+
+    - title: " Sales Guide"
+      url: /salesguide/
+      
+    - title: " BES and Gartner"
+      url: /gartner/
+
+    - title: " BES MFT Network, VAN, EDI"
+      url: /mftservices/
+
+    - title: " BES SEEBURGER B2B Integration"
+      url: /seeburger/
+
+    - title: " BES File eXchange Service (FXS)"
+      url: /fxs/
+
+
+  - title: "Connect with BES"
+    children:
+    - title: " Sales Support (email Us)"
+      url: /contact.html
+      image: DXC-Link-Icon.png
+    - title: " Sales Delivery Contacts"
+      url: /bescontacts/
+    - title: " DXC Technology Workplace"
+      url: https://dxc.workplace.com/groups/877660875729767/
+
+  
+  #- title: "Collaborate with Us..."
+    #children:
+    #- title: " Contribute to this Site"
+    #  url: /pages/contributing/
+    #- title: " Replicate this Site"
+    #  url: /tailor/
