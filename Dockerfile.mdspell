@@ -1,0 +1,8 @@
+#FROM node:argon
+FROM node:9.4.0-alpine
+
+# Install spellcheck
+RUN npm i markdown-spellcheck -g
+
+ENTRYPOINT ["mdspell"]
+CMD ["--help"]

@@ -1,0 +1,4 @@
+# Reset the URL for html-proofing so all internal links remain local to this built image
+url: ""
+baseurl: ""
+repository: ""

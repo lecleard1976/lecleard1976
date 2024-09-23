@@ -1,0 +1,4 @@
+# Settings override for local development
+url: ""
+baseurl: ""
+repository: ""
