@@ -9,7 +9,7 @@ source "https://rubygems.org"
 #gem "sass", "3.4.23"        # Emulates GitHub Enterprise 2.10.15 for sass
 gem "jekyll", "~> 4.3.1"
 gem "minimal-mistakes-jekyll"
-gem "github-pages", "168"  # Emulates GitHub Enterprise 2.12.5 for github-pages.
+gem "github-pages", "180"  # Emulates GitHub Enterprise 2.12.5 for github-pages.
 
 #gem "sass", "3.5.2"        # Emulates GitHub Enterprise 2.12.5 for sass
 
