@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "BES-Global Home"
 description              : "This is BES-Global site from template site (with Jenkins spell check and link check enabled)"
 url                      : https://github.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /pages/Global-BES/BES # the subpath of your site, e.g. "/blog"
+baseurl                  : /pages/lecleard1976/lecleard1976 # the subpath of your site, e.g. "/blog"
 repository               : /lecleard1976/lecleard1976 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
